@@ -5,7 +5,7 @@
   - 🔭 I’m currently working my computer science degree
 
 ### Projects
-<p href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</p>
+<a href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</a>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
