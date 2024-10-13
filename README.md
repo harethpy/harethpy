@@ -4,6 +4,9 @@
 
   - 🔭 I’m currently working my computer science degree
 
+### Projects
+<p href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</p>
+
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
