@@ -5,7 +5,7 @@
   - 🔭 I’m currently working my computer science degree
 
 ### Projects
-<a href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</a>
+<a href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</a>  
 <a href="https://github.com/harethpy/OpenSteak-Mines" >C# - The OpenSteak Project</a>
 
 ------
