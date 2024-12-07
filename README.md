@@ -6,6 +6,7 @@
 
 ### Projects
 <a href="https://github.com/harethpy/ElytraNoLag" >Minecraft - ElytraNoLag for PaperAPI</a>
+<a href="https://github.com/harethpy/OpenSteak-Mines" >C# - The OpenSteak Project</a>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
